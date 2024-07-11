@@ -29,7 +29,8 @@
     </a>
 </p>
 
-API providing access to make easy and secure Blockchain transactions with Worken. <a href="https://www.paidwork.com/worken?utm_source=github.com&utm_medium=referral&utm_campaign=readme" target="_blank">Read more</a> about Worken Token.
+<a href="https://www.paidwork.com/worken?utm_source=github.com&utm_medium=referral&utm_campaign=readme" target="_blank">Read more</a> about Worken Token.
+
 <p align="center">
  <h3 align="center">Endpoints<h3/>
 <p/>
