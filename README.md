@@ -6,7 +6,7 @@
   Send & Receive secure Blockchain transactions on Solana with Worken
 </h3>
 <p align="center">
-  🚀 Over 20M+ Users using Worken!
+  🚀 Over 20K+ Worken holders!
 </p>
 
 <p align="center">
