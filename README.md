@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  Create, Send, Receive, Swap, Burn and Tax on Solana Blockchain with Paidwork Library
+  Create, Send, Receive, Swap, Burn and Tax on Solana Blockchain
 </h3>
 <p align="center">
   🚀 Over 20K Worken holders!
