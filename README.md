@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  Send & Receive secure Blockchain transactions on Solana with Worken
+  Send, Receive, Swap and Burn on Solana Blockchain
 </h3>
 <p align="center">
   🚀 Over 20K Worken holders!
